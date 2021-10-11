@@ -1,0 +1,5 @@
+- 👋 Hola, yo soy Linda Orduy
+- Tengo 19 años 
+- 👀 Me gusta leer, jugar videojuegos, ver series, etc
+- Soy de La Mesa, Cundinamarca
+- En cuanto a experiencia en programacion, no tengo 
